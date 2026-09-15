@@ -1,0 +1,16 @@
+/Users/hannamarks/Desktop/john-breen/Persistence/bin/Debug/net9.0/Persistence.deps.json
+/Users/hannamarks/Desktop/john-breen/Persistence/bin/Debug/net9.0/Persistence.dll
+/Users/hannamarks/Desktop/john-breen/Persistence/bin/Debug/net9.0/Persistence.pdb
+/Users/hannamarks/Desktop/john-breen/Persistence/bin/Debug/net9.0/Domain.dll
+/Users/hannamarks/Desktop/john-breen/Persistence/bin/Debug/net9.0/Domain.pdb
+/Users/hannamarks/Desktop/john-breen/Persistence/obj/Debug/net9.0/Persistence.csproj.AssemblyReference.cache
+/Users/hannamarks/Desktop/john-breen/Persistence/obj/Debug/net9.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hannamarks/Desktop/john-breen/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfoInputs.cache
+/Users/hannamarks/Desktop/john-breen/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfo.cs
+/Users/hannamarks/Desktop/john-breen/Persistence/obj/Debug/net9.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/hannamarks/Desktop/john-breen/Persistence/obj/Debug/net9.0/Persistence.sourcelink.json
+/Users/hannamarks/Desktop/john-breen/Persistence/obj/Debug/net9.0/Persiste.61C28332.Up2Date
+/Users/hannamarks/Desktop/john-breen/Persistence/obj/Debug/net9.0/Persistence.dll
+/Users/hannamarks/Desktop/john-breen/Persistence/obj/Debug/net9.0/refint/Persistence.dll
+/Users/hannamarks/Desktop/john-breen/Persistence/obj/Debug/net9.0/Persistence.pdb
+/Users/hannamarks/Desktop/john-breen/Persistence/obj/Debug/net9.0/ref/Persistence.dll
