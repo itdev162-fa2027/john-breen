@@ -1,33 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hannamarks/Desktop/john-breen/API/API.csproj": {}
+    "C:\\code\\matc\\itdev162\\john-breen\\API\\API.csproj": {}
   },
   "projects": {
-    "/Users/hannamarks/Desktop/john-breen/API/API.csproj": {
+    "C:\\code\\matc\\itdev162\\john-breen\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hannamarks/Desktop/john-breen/API/API.csproj",
+        "projectUniqueName": "C:\\code\\matc\\itdev162\\john-breen\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/hannamarks/Desktop/john-breen/API/API.csproj",
-        "packagesPath": "/Users/hannamarks/.nuget/packages/",
-        "outputPath": "/Users/hannamarks/Desktop/john-breen/API/obj/",
+        "projectPath": "C:\\code\\matc\\itdev162\\john-breen\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\johnb\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\matc\\itdev162\\john-breen\\API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/hannamarks/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\johnb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/hannamarks/Desktop/john-breen/Application/Application.csproj": {
-                "projectPath": "/Users/hannamarks/Desktop/john-breen/Application/Application.csproj"
+              "C:\\code\\matc\\itdev162\\john-breen\\Application\\Application.csproj": {
+                "projectPath": "C:\\code\\matc\\itdev162\\john-breen\\Application\\Application.csproj"
               }
             }
           }
@@ -51,6 +57,14 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.10, )"
             }
           },
           "imports": [
@@ -72,37 +86,43 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.318/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/hannamarks/Desktop/john-breen/Application/Application.csproj": {
+    "C:\\code\\matc\\itdev162\\john-breen\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hannamarks/Desktop/john-breen/Application/Application.csproj",
+        "projectUniqueName": "C:\\code\\matc\\itdev162\\john-breen\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/hannamarks/Desktop/john-breen/Application/Application.csproj",
-        "packagesPath": "/Users/hannamarks/.nuget/packages/",
-        "outputPath": "/Users/hannamarks/Desktop/john-breen/Application/obj/",
+        "projectPath": "C:\\code\\matc\\itdev162\\john-breen\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\johnb\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\matc\\itdev162\\john-breen\\Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/hannamarks/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\johnb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/hannamarks/Desktop/john-breen/Domain/Domain.csproj": {
-                "projectPath": "/Users/hannamarks/Desktop/john-breen/Domain/Domain.csproj"
+              "C:\\code\\matc\\itdev162\\john-breen\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\code\\matc\\itdev162\\john-breen\\Domain\\Domain.csproj"
               },
-              "/Users/hannamarks/Desktop/john-breen/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/hannamarks/Desktop/john-breen/Persistence/Persistence.csproj"
+              "C:\\code\\matc\\itdev162\\john-breen\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\code\\matc\\itdev162\\john-breen\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -138,26 +158,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.318/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/hannamarks/Desktop/john-breen/Domain/Domain.csproj": {
+    "C:\\code\\matc\\itdev162\\john-breen\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hannamarks/Desktop/john-breen/Domain/Domain.csproj",
+        "projectUniqueName": "C:\\code\\matc\\itdev162\\john-breen\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/hannamarks/Desktop/john-breen/Domain/Domain.csproj",
-        "packagesPath": "/Users/hannamarks/.nuget/packages/",
-        "outputPath": "/Users/hannamarks/Desktop/john-breen/Domain/obj/",
+        "projectPath": "C:\\code\\matc\\itdev162\\john-breen\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\johnb\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\matc\\itdev162\\john-breen\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/hannamarks/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\johnb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -197,34 +223,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.318/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/hannamarks/Desktop/john-breen/Persistence/Persistence.csproj": {
+    "C:\\code\\matc\\itdev162\\john-breen\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hannamarks/Desktop/john-breen/Persistence/Persistence.csproj",
+        "projectUniqueName": "C:\\code\\matc\\itdev162\\john-breen\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/hannamarks/Desktop/john-breen/Persistence/Persistence.csproj",
-        "packagesPath": "/Users/hannamarks/.nuget/packages/",
-        "outputPath": "/Users/hannamarks/Desktop/john-breen/Persistence/obj/",
+        "projectPath": "C:\\code\\matc\\itdev162\\john-breen\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\johnb\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\matc\\itdev162\\john-breen\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/hannamarks/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\johnb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/hannamarks/Desktop/john-breen/Domain/Domain.csproj": {
-                "projectPath": "/Users/hannamarks/Desktop/john-breen/Domain/Domain.csproj"
+              "C:\\code\\matc\\itdev162\\john-breen\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\code\\matc\\itdev162\\john-breen\\Domain\\Domain.csproj"
               }
             }
           }
@@ -244,6 +276,22 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -260,7 +308,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.318/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
