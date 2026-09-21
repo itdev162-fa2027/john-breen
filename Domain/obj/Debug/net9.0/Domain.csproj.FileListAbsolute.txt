@@ -10,3 +10,15 @@
 /Users/hannamarks/Desktop/john-breen/Domain/obj/Debug/net9.0/refint/Domain.dll
 /Users/hannamarks/Desktop/john-breen/Domain/obj/Debug/net9.0/Domain.pdb
 /Users/hannamarks/Desktop/john-breen/Domain/obj/Debug/net9.0/ref/Domain.dll
+C:\code\matc\itdev162\john-breen\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\code\matc\itdev162\john-breen\Domain\bin\Debug\net9.0\Domain.dll
+C:\code\matc\itdev162\john-breen\Domain\bin\Debug\net9.0\Domain.pdb
+C:\code\matc\itdev162\john-breen\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\matc\itdev162\john-breen\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\code\matc\itdev162\john-breen\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\code\matc\itdev162\john-breen\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\code\matc\itdev162\john-breen\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+C:\code\matc\itdev162\john-breen\Domain\obj\Debug\net9.0\Domain.dll
+C:\code\matc\itdev162\john-breen\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\code\matc\itdev162\john-breen\Domain\obj\Debug\net9.0\Domain.pdb
+C:\code\matc\itdev162\john-breen\Domain\obj\Debug\net9.0\ref\Domain.dll
