@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hannamarks/Desktop/john-breen/Domain/Domain.csproj",
+      "projectUniqueName": "/Users/hannamarks/Documents/john-breen/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/Users/hannamarks/Desktop/john-breen/Domain/Domain.csproj",
+      "projectPath": "/Users/hannamarks/Documents/john-breen/Domain/Domain.csproj",
       "packagesPath": "/Users/hannamarks/.nuget/packages/",
-      "outputPath": "/Users/hannamarks/Desktop/john-breen/Domain/obj/",
+      "outputPath": "/Users/hannamarks/Documents/john-breen/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hannamarks/.nuget/NuGet/NuGet.Config"
