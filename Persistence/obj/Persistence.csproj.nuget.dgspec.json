@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hannamarks/Desktop/john-breen/Persistence/Persistence.csproj": {}
+    "/Users/hannamarks/Documents/john-breen/Persistence/Persistence.csproj": {}
   },
   "projects": {
-    "/Users/hannamarks/Desktop/john-breen/Domain/Domain.csproj": {
+    "/Users/hannamarks/Documents/john-breen/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hannamarks/Desktop/john-breen/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/hannamarks/Documents/john-breen/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/hannamarks/Desktop/john-breen/Domain/Domain.csproj",
+        "projectPath": "/Users/hannamarks/Documents/john-breen/Domain/Domain.csproj",
         "packagesPath": "/Users/hannamarks/.nuget/packages/",
-        "outputPath": "/Users/hannamarks/Desktop/john-breen/Domain/obj/",
+        "outputPath": "/Users/hannamarks/Documents/john-breen/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hannamarks/.nuget/NuGet/NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "/Users/hannamarks/Desktop/john-breen/Persistence/Persistence.csproj": {
+    "/Users/hannamarks/Documents/john-breen/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hannamarks/Desktop/john-breen/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/hannamarks/Documents/john-breen/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/hannamarks/Desktop/john-breen/Persistence/Persistence.csproj",
+        "projectPath": "/Users/hannamarks/Documents/john-breen/Persistence/Persistence.csproj",
         "packagesPath": "/Users/hannamarks/.nuget/packages/",
-        "outputPath": "/Users/hannamarks/Desktop/john-breen/Persistence/obj/",
+        "outputPath": "/Users/hannamarks/Documents/john-breen/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hannamarks/.nuget/NuGet/NuGet.Config"
@@ -85,8 +85,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/hannamarks/Desktop/john-breen/Domain/Domain.csproj": {
-                "projectPath": "/Users/hannamarks/Desktop/john-breen/Domain/Domain.csproj"
+              "/Users/hannamarks/Documents/john-breen/Domain/Domain.csproj": {
+                "projectPath": "/Users/hannamarks/Documents/john-breen/Domain/Domain.csproj"
               }
             }
           }
@@ -106,6 +106,22 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
