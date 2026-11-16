@@ -22,7 +22,7 @@ public class ProductsController : ControllerBase
     {
         var query = _context.Products.AsQueryable();
 
-        // If the student inputs a search keyword string, filter matching items down dynamically
+        // inputs a search keyword string, filter matching items down dynamically
         if (!string.IsNullOrEmpty(search))
         {
             query = query.Where(p => p.Name.ToLower().Contains(search.ToLower()));
